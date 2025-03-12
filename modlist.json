@@ -1,4 +1,9 @@
 {
+    "modId": "5E5C154FEE1094BB",
+    "name": "M113 APC",
+    "version": "1.0.17"
+},
+{
     "modId": "623A3AB336762BF3",
     "name": "Sling Load",
     "version": "1.3.21"
@@ -9,19 +14,19 @@
     "version": "1.2.0"
 },
 {
+    "modId": "62CCD69DD17E4F2F",
+    "name": "AKI CORE",
+    "version": "1.0.3"
+},
+{
     "modId": "625A4D5C50D79DB1",
     "name": "M1A2Abrams4Conflict",
     "version": "0.8.1"
 },
 {
-    "modId": "60EAEA0389DB3CC2",
-    "name": "ACE Trenches",
-    "version": "1.2.0"
-},
-{
-    "modId": "59D64ADD6FC59CBF",
-    "name": "Project Redline - UH-60",
-    "version": "1.4.1"
+    "modId": "5D0551624969C92E",
+    "name": "Zeliks Character",
+    "version": "1.1.18"
 },
 {
     "modId": "5E389BB9F58B79A6",
@@ -44,19 +49,9 @@
     "version": "1.2.0"
 },
 {
-    "modId": "62CCD69DD17E4F2F",
-    "name": "AKI CORE",
-    "version": "1.0.3"
-},
-{
     "modId": "5AB890B71D748750",
     "name": "M4 Block II and URG-I",
     "version": "1.2.9"
-},
-{
-    "modId": "59EAA899751805DF",
-    "name": "Stun Grenade",
-    "version": "1.0.18"
 },
 {
     "modId": "5AAF6D5352E5FCAB",
@@ -64,9 +59,9 @@
     "version": "1.2.6"
 },
 {
-    "modId": "5D0551624969C92E",
-    "name": "Zeliks Character",
-    "version": "1.1.18"
+    "modId": "60EAEA0389DB3CC2",
+    "name": "ACE Trenches",
+    "version": "1.2.0"
 },
 {
     "modId": "6273146ADFE8241D",
@@ -109,6 +104,11 @@
     "version": "1.2.0"
 },
 {
+    "modId": "5EE969D5E6047BC4",
+    "name": "CTI_ScoringSystem",
+    "version": "1.0.9"
+},
+{
     "modId": "5DBD560C5148E1DA",
     "name": "ACE Carrying",
     "version": "1.2.0"
@@ -119,9 +119,9 @@
     "version": "1.0.9"
 },
 {
-    "modId": "595F2BF2F44836FB",
-    "name": "RHS - Status Quo",
-    "version": "0.10.4075"
+    "modId": "629B2BA37EFFD577",
+    "name": "WCS_Armament",
+    "version": "1.0.85"
 },
 {
     "modId": "612A50206B98424E",
@@ -134,9 +134,14 @@
     "version": "0.1.10"
 },
 {
-    "modId": "5E5C154FEE1094BB",
-    "name": "M113 APC",
-    "version": "1.0.17"
+    "modId": "59EAA899751805DF",
+    "name": "Stun Grenade",
+    "version": "1.0.18"
+},
+{
+    "modId": "595F2BF2F44836FB",
+    "name": "RHS - Status Quo",
+    "version": "0.10.4075"
 },
 {
     "modId": "606B100247F5C709",
@@ -147,6 +152,11 @@
     "modId": "5EDAAE0D3CC60D6B",
     "name": "DCO_AI Reforger",
     "version": "0.2.2"
+},
+{
+    "modId": "59D64ADD6FC59CBF",
+    "name": "Project Redline - UH-60",
+    "version": "1.4.1"
 },
 {
     "modId": "620E426C34BE0D17",
@@ -189,11 +199,6 @@
     "version": "1.0.27"
 },
 {
-    "modId": "62A668F513428630",
-    "name": "WCS_Scopes",
-    "version": "1.0.6"
-},
-{
     "modId": "6464BAFA9F52B05D",
     "name": "RHS Gear to US",
     "version": "0.0.15"
@@ -234,6 +239,11 @@
     "version": "1.2.0"
 },
 {
+    "modId": "5ABD0CB57F7E9EB1",
+    "name": "RIS Laser Attachments",
+    "version": "1.0.79"
+},
+{
     "modId": "60C4CE4888FF4621",
     "name": "ACE Core",
     "version": "1.2.1"
@@ -249,11 +259,6 @@
     "version": "1.0.1"
 },
 {
-    "modId": "5EE969D5E6047BC4",
-    "name": "CTI_ScoringSystem",
-    "version": "1.0.9"
-},
-{
     "modId": "5AF6E0F075D79473",
     "name": "M249 Scope Rails",
     "version": "1.0.10"
@@ -267,6 +272,11 @@
     "modId": "61DD377AE51CB4BD",
     "name": "Ghillie Suits",
     "version": "1.0.11"
+},
+{
+    "modId": "62A668F513428630",
+    "name": "WCS_Scopes",
+    "version": "1.0.6"
 },
 {
     "modId": "5CA125536EE7430A",
@@ -287,14 +297,4 @@
     "modId": "64597A4A309AB128",
     "name": "Parachute Extension",
     "version": "1.0.11"
-},
-{
-    "modId": "5ABD0CB57F7E9EB1",
-    "name": "RIS Laser Attachments",
-    "version": "1.0.79"
-},
-{
-    "modId": "629B2BA37EFFD577",
-    "name": "WCS_Armament",
-    "version": "1.0.85"
 }
