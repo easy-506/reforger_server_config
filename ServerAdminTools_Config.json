@@ -1,0 +1,54 @@
+{
+    "admins": {
+        "00000000-0000-0000-0000-000000000001": "auto admin example"
+    },
+    "bans": {
+        "00000000-0000-0000-0000-000000000002": "banned player example"
+    },
+    "repeatedChatMessages": [
+        {
+            "message": "If you enjoyed playing on our server, make sure to visit us on discord: http://discord.gg/easycompany",
+            "intervalMinutes": 15
+        }
+    ],
+    "scheduledChatMessages": [
+        {
+            "message": "Example midnight message (in UTC time)",
+            "hour": 0,
+            "minute": 0
+        }
+    ],
+    "serverMessage": [
+        "<h1>EASY Company Arma Reforger</h1>",
+       "Rule 1: No Toxic, Offensive, Derogatory, Harassing, or Racist language.",
+       "Rule 2: Do NOT Troll, Grief, Spam, or deliberately sabotage your team.",
+       "Rule 3: Do NOT impersonate EASY Members or Staff or improperly use [EASY] tags.",
+       "Rule 4: Do NOT advertise any non-EASY content or links.",
+       "Rule 5: Cheating is NOT allowed and may result in a Permanent Ban.",
+       "Rule 6: EASY Company staff can punish players at their discretion.",
+       "Rule 7: Do NOT intentionally teamkill, team wound, or revenge teamkill."
+    ],
+    "chatMessagesUtcTime": true,
+    "repeatedChatMessagesCycle": true,
+    "statsFileUpdateIntervalSeconds": 30,
+    "banReloadIntervalMinutes": 5,
+    "statsFileName": "$profile:ServerAdminTools_Stats.json",
+    "statsSaveConnectedPlayers": true,
+    "eventsApiToken": "",
+    "eventsApiAddress": "",
+    "eventsApiRatelimitSeconds": 10,
+    "serverMessageHeaderImage": "mission",
+    "serverMessageDiscordLink": "https://discord.gg/easycompany",
+    "serverMessageOpen": true,
+    "eventsApiEventsEnabled": [
+        "serveradmintools_admin_action",
+        "serveradmintools_conflict_base_captured",
+        "serveradmintools_game_ended",
+        "serveradmintools_game_started",
+        "serveradmintools_player_joined",
+        "serveradmintools_player_killed",
+        "serveradmintools_server_fps_low",
+        "serveradmintools_vote_ended",
+        "serveradmintools_vote_started"
+    ]
+}
