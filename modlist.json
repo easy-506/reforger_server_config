@@ -1,4 +1,3 @@
-
   {
     "modId": "5AAAC70D754245DD",
     "name": "Server Admin Tools",
@@ -13,6 +12,16 @@
     "modId": "64C55774CCFAC9F6",
     "name": "AI Difficulty-CYLON",
     "version": "1.0.0"
+  },
+  {
+      "modId": "5F2944B7474F043F",
+      "name": "Disable Game Master Budgets",
+      "version": "1.0.1"
+  },
+  {
+      "modId": "60E547E88A9221E5",
+      "name": "Conflict No Base AI Limit",
+      "version": "0.0.2"
   },
   {
     "modId": "5EF5347644A2C501",
@@ -299,4 +308,59 @@
     "modId": "623A3AB336762BF3",
     "name": "Sling Load",
     "version": "1.3.21"
+  },
+  {
+      "modId": "646D53066E86C9F1",
+      "name": "RHIB4Conflict",
+      "version": "0.8.0"
+  },
+  {
+      "modId": "62A361036097D2E4",
+      "name": "H47ForConflict80s",
+      "version": "0.8.1"
+  },
+  {
+      "modId": "61B514B96692C049",
+      "name": "ConflictPVERemixedVanilla2.0",
+      "version": "2.2.8"
+  },
+  {
+      "modId": "62A343326F680E2F",
+      "name": "H47ForConflict",
+      "version": "0.8.2"
+  },
+  {
+      "modId": "6320E9501A3D1BC5",
+      "name": "Garbage Override - ConflictPVE",
+      "version": "1.0.2"
+  },
+  {
+      "modId": "620227A25A4BD7DB",
+      "name": "MH60DAP4Conflict",
+      "version": "1.0.1"
+  },
+  {
+      "modId": "5E0D22EF65E4D84E",
+      "name": "M1A1Abrams4Conflict",
+      "version": "0.8.1"
+  },
+  {
+      "modId": "625A4D5C50D79DB1",
+      "name": "M1A2Abrams4Conflict",
+      "version": "0.8.1"
+  },
+  {
+      "modId": "605E3A755084A345",
+      "name": "HumveeVariants4Conflict",
+      "version": "1.0.5"
+  },
+  {
+      "modId": "6108B5EB9199AFA8",
+      "name": "RHS to conflictPVERemixed",
+      "version": "1.0.0"
+  },
+  {
+      "modId": "612830F96B025749",
+      "name": "M113ForConflict",
+      "version": "1.0.2"
   }
