@@ -1,9 +1,4 @@
 {
-    "modId": "5E5C154FEE1094BB",
-    "name": "M113 APC",
-    "version": "1.0.17"
-},
-{
     "modId": "623A3AB336762BF3",
     "name": "Sling Load",
     "version": "1.3.21"
@@ -24,9 +19,14 @@
     "version": "0.8.1"
 },
 {
-    "modId": "5D0551624969C92E",
-    "name": "Zeliks Character",
-    "version": "1.1.18"
+    "modId": "60EAEA0389DB3CC2",
+    "name": "ACE Trenches",
+    "version": "1.2.0"
+},
+{
+    "modId": "59D64ADD6FC59CBF",
+    "name": "Project Redline - UH-60",
+    "version": "1.4.1"
 },
 {
     "modId": "5E389BB9F58B79A6",
@@ -49,9 +49,19 @@
     "version": "1.2.0"
 },
 {
-    "modId": "5AB890B71D748750",
-    "name": "M4 Block II and URG-I",
-    "version": "1.2.9"
+    "modId": "595F2BF2F44836FB",
+    "name": "RHS - Status Quo",
+    "version": "0.10.4075"
+},
+{
+    "modId": "632566C1EF309DCB",
+    "name": "RHS to Vanilla Arsenal v0.10",
+    "version": "1.0.3"
+},
+{
+    "modId": "59EAA899751805DF",
+    "name": "Stun Grenade",
+    "version": "1.0.18"
 },
 {
     "modId": "5AAF6D5352E5FCAB",
@@ -59,9 +69,9 @@
     "version": "1.2.6"
 },
 {
-    "modId": "60EAEA0389DB3CC2",
-    "name": "ACE Trenches",
-    "version": "1.2.0"
+    "modId": "5D0551624969C92E",
+    "name": "Zeliks Character",
+    "version": "1.1.18"
 },
 {
     "modId": "6273146ADFE8241D",
@@ -104,11 +114,6 @@
     "version": "1.2.0"
 },
 {
-    "modId": "5EE969D5E6047BC4",
-    "name": "CTI_ScoringSystem",
-    "version": "1.0.9"
-},
-{
     "modId": "5DBD560C5148E1DA",
     "name": "ACE Carrying",
     "version": "1.2.0"
@@ -117,11 +122,6 @@
     "modId": "6222D7E11E9DA1AD",
     "name": "M32 and M320",
     "version": "1.0.9"
-},
-{
-    "modId": "629B2BA37EFFD577",
-    "name": "WCS_Armament",
-    "version": "1.0.85"
 },
 {
     "modId": "612A50206B98424E",
@@ -134,29 +134,29 @@
     "version": "0.1.10"
 },
 {
-    "modId": "59EAA899751805DF",
-    "name": "Stun Grenade",
-    "version": "1.0.18"
+    "modId": "5E5C154FEE1094BB",
+    "name": "M113 APC",
+    "version": "1.0.17"
 },
 {
-    "modId": "595F2BF2F44836FB",
-    "name": "RHS - Status Quo",
-    "version": "0.10.4075"
+    "modId": "64C55774CCFAC9F6",
+    "name": "AI Difficulty-CYLON",
+    "version": "1.0.0"
+},
+{
+    "modId": "5AAAC70D754245DD",
+    "name": "Server Admin Tools",
+    "version": "1.2.1"
 },
 {
     "modId": "606B100247F5C709",
     "name": "Bacon Loadout Editor",
-    "version": "1.2.26"
+    "version": "1.2.30"
 },
 {
-    "modId": "5EDAAE0D3CC60D6B",
-    "name": "DCO_AI Reforger",
-    "version": "0.2.2"
-},
-{
-    "modId": "59D64ADD6FC59CBF",
-    "name": "Project Redline - UH-60",
-    "version": "1.4.1"
+    "modId": "5AB890B71D748750",
+    "name": "M4 Block II and URG-I",
+    "version": "1.2.9"
 },
 {
     "modId": "620E426C34BE0D17",
@@ -184,11 +184,6 @@
     "version": "2.0.16"
 },
 {
-    "modId": "610A399E1DA24D1C",
-    "name": "M17 Gas Mask",
-    "version": "1.0.2"
-},
-{
     "modId": "59A30ACC02650E71",
     "name": "Night Vision System",
     "version": "1.1.26"
@@ -199,9 +194,9 @@
     "version": "1.0.27"
 },
 {
-    "modId": "6464BAFA9F52B05D",
-    "name": "RHS Gear to US",
-    "version": "0.0.15"
+    "modId": "62A668F513428630",
+    "name": "WCS_Scopes",
+    "version": "1.0.7"
 },
 {
     "modId": "612830F96B025749",
@@ -229,19 +224,9 @@
     "version": "2.2.8"
 },
 {
-    "modId": "628729E87E79DA7F",
-    "name": "LinearConflictPVE",
-    "version": "1.2.1"
-},
-{
     "modId": "60C53A9372ED3964",
     "name": "ACE Compass",
     "version": "1.2.0"
-},
-{
-    "modId": "5ABD0CB57F7E9EB1",
-    "name": "RIS Laser Attachments",
-    "version": "1.0.79"
 },
 {
     "modId": "60C4CE4888FF4621",
@@ -254,9 +239,9 @@
     "version": "1.1.3"
 },
 {
-    "modId": "614C35C386CA3F6E",
-    "name": "Ambient Patrol Addons",
-    "version": "1.0.1"
+    "modId": "5EE969D5E6047BC4",
+    "name": "CTI_ScoringSystem",
+    "version": "1.0.9"
 },
 {
     "modId": "5AF6E0F075D79473",
@@ -269,16 +254,6 @@
     "version": "1.2.0"
 },
 {
-    "modId": "61DD377AE51CB4BD",
-    "name": "Ghillie Suits",
-    "version": "1.0.11"
-},
-{
-    "modId": "62A668F513428630",
-    "name": "WCS_Scopes",
-    "version": "1.0.6"
-},
-{
     "modId": "5CA125536EE7430A",
     "name": "M110 DMR",
     "version": "1.0.25"
@@ -286,7 +261,7 @@
 {
     "modId": "612F512CD4CB21D5",
     "name": "WCS_Earplugs",
-    "version": "1.0.9"
+    "version": "1.0.10"
 },
 {
     "modId": "5AB301290317994A",
@@ -297,4 +272,14 @@
     "modId": "64597A4A309AB128",
     "name": "Parachute Extension",
     "version": "1.0.11"
+},
+{
+    "modId": "5ABD0CB57F7E9EB1",
+    "name": "RIS Laser Attachments",
+    "version": "1.0.79"
+},
+{
+    "modId": "629B2BA37EFFD577",
+    "name": "WCS_Armament",
+    "version": "1.0.86"
 }
