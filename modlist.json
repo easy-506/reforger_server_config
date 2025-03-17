@@ -50,6 +50,16 @@
     "version": "1.2.30"
   },
   {
+    "version": "1.0.25",
+    "name": "DRIVE-BY",
+    "modId": "62111096C5A64AC0"
+  },
+  {
+    "version": "1.0.0",
+    "name": "12 Teammates",
+    "modId": "5EF50A556AFB690D"
+  },
+  {
     "modId": "5E389BB9F58B79A6",
     "name": "SpaceCore",
     "version": "1.2.40"
@@ -256,6 +266,11 @@
     "version": "1.0.9"
   },
   {
+    "version": "1.0.11",
+    "name": "MCX LT_ MCX LVAW _ .300blk",
+    "modId": "60620915CACA0ED1"
+  },
+  {
     "modId": "5CF0C3158AB2337E",
     "name": "Task Force Mattock Uniforms",
     "version": "1.0.4"
@@ -364,5 +379,25 @@
     "modId": "612830F96B025749",
     "name": "M113ForConflict",
     "version": "1.0.2"
+  },
+  {
+    "version": "1.0.23",
+    "name": "WH60 BlackHawk",
+    "modId": "61F53BE92BAD7E35"
+  },
+  {
+    "version": "1.0.29",
+    "name": "WCS_AH-64D",
+    "modId": "6303360DA719E832"
+  },
+  {
+    "version": "1.0.9",
+    "name": "WCS_AH-64D_Upgrade",
+    "modId": "6326F0C7E748AB8A"
+  },
+  {
+    "version": "1.0.5",
+    "name": "Heavys Conflict Vehicle Pack",
+    "modId": "644C0B36C7F14C62"
   }
 ]
