@@ -21,12 +21,13 @@
     "serverMessage": [
         "<h1>EASY Company Arma Reforger</h1>",
        "Rule 1: No Toxic, Offensive, Derogatory, Harassing, or Racist language.",
-       "Rule 2: Do NOT Troll, Grief, Spam, or deliberately sabotage your team.",
-       "Rule 3: Do NOT impersonate EASY Members or Staff or improperly use [EASY] tags.",
-       "Rule 4: Do NOT advertise any non-EASY content or links.",
-       "Rule 5: Cheating is NOT allowed and may result in a Permanent Ban.",
-       "Rule 6: EASY Company staff can punish players at their discretion.",
-       "Rule 7: Do NOT intentionally teamkill, team wound, or revenge teamkill."
+       "Rule 2: Do NOT abuse admin reports.",
+       "Rule 3: Do NOT Troll, Grief, Spam, or deliberately sabotage your team.",
+       "Rule 4: Do NOT impersonate EASY Members or Staff or improperly use [EASY] tags.",
+       "Rule 5: Do NOT advertise any non-EASY content or links.",
+       "Rule 6: Cheating is NOT allowed and may result in a Permanent Ban.",
+       "Rule 7: EASY Company staff can punish players at their discretion.",
+       "Rule 8: Do NOT intentionally teamkill, team wound, or revenge teamkill."
     ],
     "chatMessagesUtcTime": true,
     "repeatedChatMessagesCycle": true,
