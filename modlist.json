@@ -1,23 +1,11 @@
 [
   {
-    "modId": "5AAAC70D754245DD",
-    "name": "Server Admin Tools"
+    "modId": "620E426C34BE0D17",
+    "name": "Laser Rangefinder"
   },
   {
-    "modId": "5EF5347644A2C501",
-    "name": "Bacon Weather"
-  },
-  {
-    "modId": "5B0D1E4380971EBD",
-    "name": "COALITION Squad Interface"
-  },
-  {
-    "modId": "5965550F24A0C152",
-    "name": "Where Am I"
-  },
-  {
-    "name": "12 Teammates",
-    "modId": "5EF50A556AFB690D"
+    "modId": "60C4C12DAE90727B",
+    "name": "ACE Medical"
   },
   {
     "modId": "5E389BB9F58B79A6",
@@ -28,231 +16,191 @@
     "name": "AKI CORE"
   },
   {
-    "modId": "595F2BF2F44836FB",
-    "name": "RHS - Status Quo"
-  },
-  {
-    "modId": "5AAF6D5352E5FCAB",
-    "name": "Project Redline - Core"
-  },
-  {
-    "modId": "60C4CE4888FF4621",
-    "name": "ACE Core"
-  },
-  {
     "modId": "6276E6E3CC97A22B",
     "name": "AUS_CORE"
-  },
-  {
-    "modId": "5F1EE615E7AE3106",
-    "name": "BGONE"
-  },
-  {
-    "modId": "60C4C12DAE90727B",
-    "name": "ACE Medical"
-  },
-  {
-    "modId": "61B7763A8AEB53B7",
-    "name": "ACE Explosives"
-  },
-  {
-    "modId": "611CB1D409001EB0",
-    "name": "ACE Magazine Repack"
-  },
-  {
-    "modId": "5DBD560C5148E1DA",
-    "name": "ACE Carrying"
-  },
-  {
-    "modId": "606C369BAC3F6CC3",
-    "name": "ACE Finger"
-  },
-  {
-    "modId": "60EAEA0389DB3CC2",
-    "name": "ACE Trenches"
-  },
-  {
-    "modId": "5EB744C5F42E0800",
-    "name": "ACE Chopping"
-  },
-  {
-    "modId": "60E573C9B04CC408",
-    "name": "ACE Backblast"
-  },
-  {
-    "modId": "60C53A9372ED3964",
-    "name": "ACE Compass"
-  },
-  {
-    "modId": "60C4E0B49618CC62",
-    "name": "ACE All in One"
-  },
-  {
-    "modId": "6214CEA5DA92BFF3",
-    "name": "ACE Medical Prototypes"
-  },
-  {
-    "modId": "5D0551624969C92E",
-    "name": "Zeliks Character"
-  },
-  {
-    "modId": "629B2BA37EFFD577",
-    "name": "WCS_Armament"
-  },
-  {
-    "modId": "612F512CD4CB21D5",
-    "name": "WCS_Earplugs"
-  },
-  {
-    "modId": "62A668F513428630",
-    "name": "WCS_Scopes"
-  },
-  {
-    "modId": "5ABD0CB57F7E9EB1",
-    "name": "RIS Laser Attachments"
-  },
-  {
-    "modId": "5AB301290317994A",
-    "name": "Bacon Suppressors"
-  },
-  {
-    "modId": "59A30ACC02650E71",
-    "name": "Night Vision System"
-  },
-  {
-    "modId": "620E426C34BE0D17",
-    "name": "Laser Rangefinder"
-  },
-  {
-    "modId": "5B3ED33ADA805340",
-    "name": "Task Force Mattock Weapons"
-  },
-  {
-    "modId": "5D6ABA88F8781C1C",
-    "name": "TF Mattock BLUFOR OPFOR"
-  },
-  {
-    "modId": "62E630A459D60C51",
-    "name": "MOC Arsenal"
-  },
-  {
-    "modId": "607890C143259412",
-    "name": "Bundeswehr Equipment - Stable"
   },
   {
     "modId": "5AF6E0F075D79473",
     "name": "M249 Scope Rails"
   },
   {
-    "modId": "5D915A9DC6EB0856",
-    "name": "Benelli M4"
+    "modId": "61B7763A8AEB53B7",
+    "name": "ACE Explosives"
   },
   {
-    "modId": "5E04C10D824A8990",
-    "name": "M60E4"
-  },
-  {
-    "modId": "6222D7E11E9DA1AD",
-    "name": "M32 and M320"
-  },
-  {
-    "name": "MCX LT_ MCX LVAW _ .300blk",
-    "modId": "60620915CACA0ED1"
-  },
-  {
-    "modId": "5CF0C3158AB2337E",
-    "name": "Task Force Mattock Uniforms"
-  },
-  {
-    "modId": "5D9ECAD071E9ECBC",
-    "name": "HMMWV  VARIANTS PACK"
-  },
-  {
-    "modId": "5E193315C8E82019",
-    "name": "M2 Bradley Fighting Vehicle"
+    "modId": "5D0551624969C92E",
+    "name": "Zeliks Character"
   },
   {
     "modId": "59D64ADD6FC59CBF",
     "name": "Project Redline - UH-60"
   },
   {
-    "modId": "61957C5C6FB7A773",
-    "name": "H-47 Chinook"
+    "modId": "59A30ACC02650E71",
+    "name": "Night Vision System"
   },
   {
-    "modId": "5D1880C4AD410C14",
-    "name": "M1 Abrams"
+    "modId": "5D915A9DC6EB0856",
+    "name": "Benelli M4"
   },
   {
-    "modId": "5E5C154FEE1094BB",
-    "name": "M113 APC"
+    "modId": "62A668F513428630",
+    "name": "WCS_Scopes"
   },
   {
-    "modId": "6273146ADFE8241D",
-    "name": "AH6M"
-  },
-  {
-    "modId": "6208BA1AD9044ECA",
-    "name": "MEDEVAC Medical Helicopters"
-  },
-  {
-    "modId": "5CCCC1DFB9C93581",
-    "name": "AH-64D Apache"
-  },
-  {
-    "modId": "623A3AB336762BF3",
-    "name": "Sling Load"
-  },
-  {
-    "modId": "60ED3CC6E7E40221",
-    "name": "Sikorsky MH60 DAP Project"
+    "modId": "62E630A459D60C51",
+    "name": "MOC Arsenal"
   },
   {
     "modId": "646D53066E86C9F1",
     "name": "RHIB4Conflict"
   },
   {
-    "modId": "62A361036097D2E4",
-    "name": "H47ForConflict80s"
+    "modId": "5EB744C5F42E0800",
+    "name": "ACE Chopping"
   },
   {
-    "modId": "62A343326F680E2F",
-    "name": "H47ForConflict"
+    "modId": "5B0D1E4380971EBD",
+    "name": "COALITION Squad Interface"
+  },
+  {
+    "modId": "60EAEA0389DB3CC2",
+    "name": "ACE Trenches"
+  },
+  {
+    "modId": "5EF5347644A2C501",
+    "name": "Bacon Weather"
+  },
+  {
+    "modId": "60C4E0B49618CC62",
+    "name": "ACE All in One"
+  },
+  {
+    "modId": "60E573C9B04CC408",
+    "name": "ACE Backblast"
+  },
+  {
+    "modId": "61B514B96692C049",
+    "name": "ConflictPVERemixedVanilla2.0"
+  },
+  {
+    "modId": "5E04C10D824A8990",
+    "name": "M60E4"
+  },
+  {
+    "modId": "5AAF6D5352E5FCAB",
+    "name": "Project Redline - Core"
+  },
+  {
+    "modId": "60C53A9372ED3964",
+    "name": "ACE Compass"
+  },
+  {
+    "modId": "5EF50A556AFB690D",
+    "name": "12 Teammates"
+  },
+  {
+    "modId": "6273146ADFE8241D",
+    "name": "WCS_AH6M"
+  },
+  {
+    "modId": "60C4CE4888FF4621",
+    "name": "ACE Core"
+  },
+  {
+    "modId": "6208BA1AD9044ECA",
+    "name": "MEDEVAC Medical Helicopters"
+  },
+  {
+    "modId": "60620915CACA0ED1",
+    "name": "MCX LT_ MCX LVAW _ .300blk"
+  },
+  {
+    "modId": "606C369BAC3F6CC3",
+    "name": "ACE Finger"
+  },
+  {
+    "modId": "61F53BE92BAD7E35",
+    "name": "WH60 BlackHawk"
+  },
+  {
+    "modId": "5965550F24A0C152",
+    "name": "Where Am I"
+  },
+  {
+    "modId": "5994614FB5AD35C2",
+    "name": "RHIB"
+  },
+  {
+    "modId": "607890C143259412",
+    "name": "Bundeswehr Equipment - Stable"
+  },
+  {
+    "modId": "5E9ECDFB27FA9B9F",
+    "name": "Bundeswehr Liveries"
+  },
+  {
+    "modId": "64EE818E08AFCF94",
+    "name": "MFD Framework"
+  },
+  {
+    "modId": "5DBD560C5148E1DA",
+    "name": "ACE Carrying"
+  },
+  {
+    "modId": "6222D7E11E9DA1AD",
+    "name": "M32 and M320"
+  },
+  {
+    "modId": "629B2BA37EFFD577",
+    "name": "WCS_Armaments"
+  },
+  {
+    "modId": "60ED3CC6E7E40221",
+    "name": "Sikorsky MH60 DAP Project"
+  },
+  {
+    "modId": "595F2BF2F44836FB",
+    "name": "RHS - Status Quo"
+  },
+  {
+    "modId": "612F512CD4CB21D5",
+    "name": "WCS_Earplugs"
+  },
+  {
+    "modId": "6214CEA5DA92BFF3",
+    "name": "ACE Medical Prototypes"
+  },
+  {
+    "modId": "5AB301290317994A",
+    "name": "Bacon Suppressors"
+  },
+  {
+    "modId": "5ABD0CB57F7E9EB1",
+    "name": "RIS Laser Attachments"
   },
   {
     "modId": "620227A25A4BD7DB",
     "name": "MH60DAP4Conflict"
   },
   {
-    "modId": "5E0D22EF65E4D84E",
-    "name": "M1A1Abrams4Conflict"
+    "modId": "5CF0C3158AB2337E",
+    "name": "Task Force Mattock Uniforms"
   },
   {
-    "modId": "625A4D5C50D79DB1",
-    "name": "M1A2Abrams4Conflict"
+    "modId": "611CB1D409001EB0",
+    "name": "ACE Magazine Repack"
   },
   {
-    "modId": "605E3A755084A345",
-    "name": "HumveeVariants4Conflict"
+    "modId": "5B3ED33ADA805340",
+    "name": "Task Force Mattock Weapons"
   },
   {
-    "modId": "612830F96B025749",
-    "name": "M113ForConflict"
+    "modId": "5AAAC70D754245DD",
+    "name": "Server Admin Tools"
   },
   {
-    "name": "WH60 BlackHawk",
-    "modId": "61F53BE92BAD7E35"
-  },
-  {
-    "name": "WCS_AH-64D",
-    "modId": "6303360DA719E832"
-  },
-  {
-    "name": "WCS_AH-64D_Upgrade",
-    "modId": "6326F0C7E748AB8A"
-  },
-  {
-    "name": "Heavys Conflict Vehicle Pack",
-    "modId": "644C0B36C7F14C62"
+    "modId": "5D6ABA88F8781C1C",
+    "name": "TF Mattock BLUFOR OPFOR"
   }
-  ]
+]
