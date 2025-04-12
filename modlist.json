@@ -1,206 +1,182 @@
-[
-	{
-		"modId": "620E426C34BE0D17",
-		"name": "Laser Rangefinder"
-	},
-	{
-		"modId": "60C4C12DAE90727B",
-		"name": "ACE Medical"
-	},
-	{
-		"modId": "5E389BB9F58B79A6",
-		"name": "SpaceCore"
-	},
-	{
-		"modId": "62CCD69DD17E4F2F",
-		"name": "AKI CORE"
-	},
-	{
-		"modId": "6276E6E3CC97A22B",
-		"name": "AUS_CORE"
-	},
-	{
-		"modId": "5AF6E0F075D79473",
-		"name": "M249 Scope Rails"
-	},
-	{
-		"modId": "61B7763A8AEB53B7",
-		"name": "ACE Explosives"
-	},
-	{
-		"modId": "5D0551624969C92E",
-		"name": "Zeliks Character"
-	},
-	{
-		"modId": "59D64ADD6FC59CBF",
-		"name": "Project Redline - UH-60"
-	},
-	{
-		"modId": "59A30ACC02650E71",
-		"name": "Night Vision System"
-	},
-	{
-		"modId": "5D915A9DC6EB0856",
-		"name": "Benelli M4"
-	},
-	{
-		"modId": "62A668F513428630",
-		"name": "WCS_Scopes"
-	},
-	{
-		"modId": "62E630A459D60C51",
-		"name": "MOC Arsenal"
-	},
-	{
-		"modId": "646D53066E86C9F1",
-		"name": "RHIB4Conflict"
-	},
-	{
-		"modId": "5EB744C5F42E0800",
-		"name": "ACE Chopping"
-	},
-	{
-		"modId": "5B0D1E4380971EBD",
-		"name": "COALITION Squad Interface"
-	},
-	{
-		"modId": "60EAEA0389DB3CC2",
-		"name": "ACE Trenches"
-	},
-	{
-		"modId": "5EF5347644A2C501",
-		"name": "Bacon Weather"
-	},
-	{
-		"modId": "60C4E0B49618CC62",
-		"name": "ACE All in One"
-	},
-	{
-		"modId": "60E573C9B04CC408",
-		"name": "ACE Backblast"
-	},
-	{
-		"modId": "61B514B96692C049",
-		"name": "ConflictPVERemixedVanilla2.0"
-	},
-	{
-		"modId": "5E04C10D824A8990",
-		"name": "M60E4"
-	},
-	{
-		"modId": "5AAF6D5352E5FCAB",
-		"name": "Project Redline - Core"
-	},
-	{
-		"modId": "60C53A9372ED3964",
-		"name": "ACE Compass"
-	},
-	{
-		"modId": "5EF50A556AFB690D",
-		"name": "12 Teammates"
-	},
-	{
-		"modId": "6273146ADFE8241D",
-		"name": "WCS_AH6M"
-	},
-	{
-		"modId": "60C4CE4888FF4621",
-		"name": "ACE Core"
-	},
-	{
-		"modId": "6208BA1AD9044ECA",
-		"name": "MEDEVAC Medical Helicopters"
-	},
-	{
-		"modId": "60620915CACA0ED1",
-		"name": "MCX LT_ MCX LVAW _ .300blk"
-	},
-	{
-		"modId": "606C369BAC3F6CC3",
-		"name": "ACE Finger"
-	},
-	{
-		"modId": "61F53BE92BAD7E35",
-		"name": "WH60 BlackHawk"
-	},
-	{
-		"modId": "5965550F24A0C152",
-		"name": "Where Am I"
-	},
-	{
-		"modId": "5994614FB5AD35C2",
-		"name": "RHIB"
-	},
-	{
-		"modId": "607890C143259412",
-		"name": "Bundeswehr Equipment - Stable"
-	},
-	{
-		"modId": "5E9ECDFB27FA9B9F",
-		"name": "Bundeswehr Liveries"
-	},
-	{
-		"modId": "64EE818E08AFCF94",
-		"name": "MFD Framework"
-	},
-	{
-		"modId": "5DBD560C5148E1DA",
-		"name": "ACE Carrying"
-	},
-	{
-		"modId": "6222D7E11E9DA1AD",
-		"name": "M32 and M320"
-	},
-	{
-		"modId": "629B2BA37EFFD577",
-		"name": "WCS_Armaments"
-	},
-	{
-		"modId": "60ED3CC6E7E40221",
-		"name": "Sikorsky MH60 DAP Project"
-	},
-	{
-		"modId": "595F2BF2F44836FB",
-		"name": "RHS - Status Quo"
-	},
-	{
-		"modId": "612F512CD4CB21D5",
-		"name": "WCS_Earplugs"
-	},
-	{
-		"modId": "6214CEA5DA92BFF3",
-		"name": "ACE Medical Prototypes"
-	},
-	{
-		"modId": "5AB301290317994A",
-		"name": "Bacon Suppressors"
-	},
-	{
-		"modId": "5ABD0CB57F7E9EB1",
-		"name": "RIS Laser Attachments"
-	},
-	{
-		"modId": "620227A25A4BD7DB",
-		"name": "MH60DAP4Conflict"
-	},
-	{
-		"modId": "5CF0C3158AB2337E",
-		"name": "Task Force Mattock Uniforms"
-	},
-	{
-		"modId": "611CB1D409001EB0",
-		"name": "ACE Magazine Repack"
-	},
-	{
-		"modId": "5B3ED33ADA805340",
-		"name": "Task Force Mattock Weapons"
-	},
-	{
-		"modId": "5AAAC70D754245DD",
-		"name": "Server Admin Tools"
-	},
-	{
-		"name": "Scenario Reload Menu",
-		"modId": "606D03292879EF5B"
-	}
-]
+"mods": [
+      {
+        "modId": "606B100247F5C709",
+        "name": "Bacon Loadout Editor"
+      },
+      {
+        "modId": "5EF5347644A2C501",
+        "name": "Bacon Weather"
+      },
+      {
+        "modId": "62BE25F97D19ED65",
+        "name": "Mines Remixed"
+      },
+      {
+        "modId": "63120AE07E6C0966",
+        "name": "M2 Bradley Fighting Vehicle"
+      },
+      {
+        "modId": "5E389BB9F58B79A6",
+        "name": "SpaceCore"
+      },
+      {
+        "modId": "629B2BA37EFFD577",
+        "name": "WCS_Armaments"
+      },
+      {
+        "modId": "5994614FB5AD35C2",
+        "name": "RHIB"
+      },
+      {
+        "modId": "62337D088BDA0949",
+        "name": "MH60 with Rappelling"
+      },
+      {
+        "modId": "6276E6E3CC97A22B",
+        "name": "AUS_CORE"
+      },
+      {
+        "modId": "60ED3CC6E7E40221",
+        "name": "Sikorsky MH60 DAP Project"
+      },
+      {
+        "modId": "5C721177A220B42F",
+        "name": "Joint Light Tactical Vehicle"
+      },
+      {
+        "modId": "6273146ADFE8241D",
+        "name": "WCS_AH6M"
+      },
+      {
+        "modId": "62CCD69DD17E4F2F",
+        "name": "AKI CORE"
+      },
+      {
+        "modId": "61C74A8B647617DA",
+        "name": "WCS_Attachments"
+      },
+      {
+        "modId": "62A668F513428630",
+        "name": "WCS_Scopes"
+      },
+      {
+        "modId": "64F76972D615EA28",
+        "name": "WCS to US arsenal"
+      },
+      {
+        "modId": "631C3C1AEE9C90BC",
+        "name": "WCS_Sounds"
+      },
+      {
+        "modId": "612F512CD4CB21D5",
+        "name": "WCS_Earplugs"
+      },
+      {
+        "modId": "628729E87E79DA7F",
+        "name": "LinearConflictPVE"
+      },
+      {
+        "modId": "5ABD0CB57F7E9EB1",
+        "name": "RIS Laser Attachments"
+      },
+      {
+        "modId": "5AB301290317994A",
+        "name": "Bacon Suppressors"
+      },
+      {
+        "modId": "5B0D1E4380971EBD",
+        "name": "COALITION Squad Interface"
+      },
+      {
+        "modId": "61226BB18D360BDD",
+        "name": "ACE Tactical Ladder"
+      },
+      {
+        "modId": "606C369BAC3F6CC3",
+        "name": "ACE Finger"
+      },
+      {
+        "modId": "60E573C9B04CC408",
+        "name": "ACE Backblast"
+      },
+      {
+        "modId": "611CB1D409001EB0",
+        "name": "ACE Magazine Repack"
+      },
+      {
+        "modId": "64475DC102F2BDA4",
+        "name": "ACE Radio"
+      },
+      {
+        "modId": "61B7763A8AEB53B7",
+        "name": "ACE Explosives"
+      },
+      {
+        "modId": "60C4C12DAE90727B",
+        "name": "ACE Medical"
+      },
+      {
+        "modId": "6214CEA5DA92BFF3",
+        "name": "ACE Medical Prototypes"
+      },
+      {
+        "modId": "5DBD560C5148E1DA",
+        "name": "ACE Carrying"
+      },
+      {
+        "modId": "60C4CE4888FF4621",
+        "name": "ACE Core"
+      },
+      {
+        "modId": "5EE969D5E6047BC4",
+        "name": "CTI_ScoringSystem"
+      },
+      {
+        "modId": "64F97A1E9C5FE9D8",
+        "name": "RHS in one in US arsenal"
+      },
+      {
+        "modId": "595F2BF2F44836FB",
+        "name": "RHS - Status Quo"
+      },
+      {
+        "modId": "5AF6E0F075D79473",
+        "name": "M249 Scope Rails"
+      },
+      {
+        "modId": "5965550F24A0C152",
+        "name": "Where Am I"
+      },
+      {
+        "modId": "5E92F5A4A1B75A75",
+        "name": "Player Map Markers"
+      },
+      {
+        "modId": "5EF50A556AFB690D",
+        "name": "12 Teammates"
+      },
+      {
+        "modId": "6088A3044B7ECBFD",
+        "name": "Keep Gun When Uncon"
+      },
+      {
+        "modId": "5AAAC70D754245DD",
+        "name": "Server Admin Tools"
+      },
+      {
+        "modId": "5C9758250C8C56F1",
+        "name": "Bon Action Animations"
+      },
+      {
+        "modId": "606D03292879EF5B",
+        "name": "Scenario Reload Menu"
+      },
+      {
+        "modId": "5F2944B7474F043F",
+        "name": "Disable Game Master Budgets"
+      },
+      {
+        "modId": "61B514B96692C049",
+        "name": "ConflictPVERemixedVanilla2.0"
+      }
+    ]
